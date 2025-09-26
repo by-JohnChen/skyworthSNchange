@@ -282,4 +282,8 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     main_window = MainGui()
     main_window.show()
+<<<<<<< HEAD
     sys.exit(app.exec())
+=======
+    sys.exit(app.exec())
+>>>>>>> 03b0ff42d969c25c3dde7f85034c7680b6b8a1d9
