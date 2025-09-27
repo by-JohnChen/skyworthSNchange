@@ -414,12 +414,4 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     main_window = MainGui()
     main_window.show()
-<<<<<<< HEAD
     sys.exit(app.exec())
-=======
-<<<<<<< HEAD
-    sys.exit(app.exec())
-=======
-    sys.exit(app.exec())
->>>>>>> 03b0ff42d969c25c3dde7f85034c7680b6b8a1d9
->>>>>>> 47e68c7c0c317b86c0354ac19c9c1c9f3c935087
