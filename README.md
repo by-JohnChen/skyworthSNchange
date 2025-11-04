@@ -17,7 +17,7 @@
 ## 环境要求
 
 - Python 3.x
-- 依赖库：`PySide6`
+- 依赖库：`PySide6` `adb-shell`
 - 机顶盒需开启 ADB 调试（默认端口：5555）
 - 电脑与机顶盒需处于同一局域网
 
@@ -26,7 +26,7 @@
 1. 克隆或下载项目到本地
 2. 安装依赖库：
    ```bash
-   pip install PySide6
+   pip install PySide6 adb-shell
    ```
 3. 运行主程序：
    ```bash
